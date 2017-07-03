@@ -1,5 +1,71 @@
 products = [
   {
+    "name": "AcneFree Body Clearing Acne Spray",
+    "id": "B01IAEKLQK",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61S6zDanyIL._SX522_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-normal",
+        "skin-oily"
+      ],
+      "age": [
+        "age-19to24",
+        "age-25to35",
+        "age-36plus"
+      ],
+      "kind": [
+        "kind-inflamed_bumps",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-back-chest"
+      ],
+      "count": [
+        "count-0to3",
+        "count-4to6",
+        "count-7to10"
+      ],
+      "type": [
+        "type-sprays"
+      ]
+    }
+  },
+  {
+    "name": "Alba Botanica Acnedote",
+    "id": "B003O3XY9O",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71NLIrTRAjL._SX522_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-normal",
+        "skin-oily",
+        "skin-dry",
+        "skin-combination"
+      ],
+      "age": [
+        "age-12to18",
+        "age-19to24",
+        "age-25to35",
+        "age-36plus"
+      ],
+      "kind": [
+        "kind-inflamed_bumps",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-forehead",
+        "location-nose-cheeks",
+        "location-chin"
+      ],
+      "count": [
+        "count-0to3",
+        "count-4to6"
+      ],
+      "type": [
+        "type-creams"
+      ]
+    }
+  },
+  {
     "name": "Algae Deep Cleanse",
     "id": "B00I8S6CFI",
     "image": "https://images-na.ssl-images-amazon.com/images/I/313CLB0qj1L.jpg",
@@ -34,6 +100,38 @@ products = [
       ],
       "type": [
         "type-cleansers"
+      ]
+    }
+  },
+  {
+    "name": "Aria Starr Beauty Natural Dead Sea Mud Mask",
+    "id": "B00Z75ZDAU",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71l2FEpia7L._SX522_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-normal",
+        "skin-oily",
+        "skin-combination"
+      ],
+      "age": [
+        "age-19to24",
+        "age-25to35"
+      ],
+      "kind": [
+        "kind-whitehead",
+        "kind-blackheads",
+        "kind-inflamed_bumps"
+      ],
+      "location": [
+        "location-forehead",
+        "location-chin"
+      ],
+      "count": [
+        "count-4to6",
+        "count-7to10"
+      ],
+      "type": [
+        "type-masks"
       ]
     }
   },
@@ -104,6 +202,41 @@ products = [
         "count-0to3",
         "count-4to6",
         "count-7to10"
+      ],
+      "type": [
+        "type-cleansers"
+      ]
+    }
+  },
+  {
+    "name": "Aveeno Clear Complexion Blemish Treatment Daily Moisturizer",
+    "id": "B00006FRW7",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81yPkCduhaL._SX522_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-oily",
+        "skin-combination"
+      ],
+      "age": [
+        "age-12to18",
+        "age-19to24",
+        "age-25to35",
+        "age-36plus"
+      ],
+      "kind": [
+        "kind-inflamed_bumps",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-forehead",
+        "location-nose-cheeks",
+        "location-chin"
+      ],
+      "count": [
+        "count-0to3",
+        "count-4to6",
+        "count-7to10",
+        "count-11plus"
       ],
       "type": [
         "type-cleansers"
@@ -275,6 +408,82 @@ products = [
     }
   },
   {
+    "name": "Buena Skin Activated Charcoal Scrub",
+    "id": "B01MS88GYV",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81%2BmnXKRDqL._SX522_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-normal",
+        "skin-oily",
+        "skin-dry",
+        "skin-combination"
+      ],
+      "age": [
+        "age-12to18",
+        "age-19to24",
+        "age-25to35"
+      ],
+      "kind": [
+        "kind-blackheads",
+        "kind-inflamed_bumps",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-forehead",
+        "location-nose-cheeks",
+        "location-chin",
+        "location-back-chest"
+      ],
+      "count": [
+        "count-0to3",
+        "count-4to6",
+        "count-7to10"
+      ],
+      "type": [
+        "type-cleansers"
+      ]
+    }
+  },
+
+  {
+    "name": "Cetaphil Dermacontrol Moisturizer",
+    "id": "B006L2137U",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41TYhh%2Bpm6L._SL1000_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-normal",
+        "skin-oily",
+        "skin-dry",
+        "skin-combination"
+      ],
+      "age": [
+        "age-12to18",
+        "age-19to24",
+        "age-25to35",
+      ],
+      "kind": [
+        "kind-blackheads",
+        "kind-inflamed_bumps",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-forehead",
+        "location-nose-cheeks",
+        "location-chin"
+      ],
+      "count": [
+        "count-0to3",
+        "count-4to6",
+        "count-7to10",
+        "count-11plus"
+      ],
+      "type": [
+        "type-creams"
+      ]
+    }
+  },
+
+  {
     "name": "Cetaphil Gentle Skin Cleanser",
     "id": "B001ET76EY",
     "image": "https://images-na.ssl-images-amazon.com/images/I/61uRZ3t7JzL._SX522_.jpg",
@@ -311,6 +520,39 @@ products = [
       ],
       "type": [
         "type-cleansers"
+      ]
+    }
+  },
+  {
+    "name": "Citrus Clear Organic Acne Moisturizer",
+    "id": "B01N35UQJL",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41kGCQd9hnL.jpg",
+    "attributes": {
+      "skin": [
+        "skin-normal",
+        "skin-oily",
+        "skin-combination"
+      ],
+      "age": [
+        "age-19to24",
+        "age-25to35"
+      ],
+      "kind": [
+        "kind-inflamed_bumps",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-forehead",
+        "location-nose-cheeks",
+        "location-chin"
+      ],
+      "count": [
+        "count-4to6",
+        "count-7to10",
+        "count-11plus"
+      ],
+      "type": [
+        "type-creams"
       ]
     }
   },
@@ -451,6 +693,71 @@ products = [
       ],
       "type": [
         "type-cleansers"
+      ]
+    }
+  },
+  {
+    "name": "Concept Skin Oily Skin & Acne Moisturizer",
+    "id": "B01H3YH882",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61QARoUdUVL._SY679_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-oily",
+        "skin-combination"
+      ],
+      "age": [
+        "age-19to24",
+        "age-25to35",
+        "age-36plus"
+      ],
+      "kind": [
+        "kind-inflamed_bumps",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-forehead",
+        "location-nose-cheeks",
+        "location-chin"
+      ],
+      "count": [
+        "count-0to3",
+        "count-4to6"
+      ],
+      "type": [
+        "type-creams"
+      ]
+    }
+  },
+  {
+    "name": "Dead Sea Mud Mask New York Biology",
+    "id": "B01NCM25K7",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71plw3t8ZfL._SX522_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-normal",
+        "skin-oily",
+        "skin-dry"
+      ],
+      "age": [
+        "age-12to18",
+        "age-19to24",
+        "age-25to35"
+      ],
+      "kind": [
+        "kind-blackheads",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-forehead",
+        "location-nose-cheeks",
+        "location-chin"
+      ],
+      "count": [
+        "count-4to6",
+        "count-7to10"
+      ],
+      "type": [
+        "type-masks"
       ]
     }
   },
@@ -831,6 +1138,37 @@ products = [
     }
   },
   {
+    "name": " First Botany Cosmeceuticals Natural Mineral-Infused Dead Sea Mud Mask",
+    "id": "B015ANMLQM",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71rVCIMM0mL._SX522_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-oily",
+        "skin-combination"
+      ],
+      "age": [
+        "age-19to24",
+        "age-25to35"
+      ],
+      "kind": [
+        "kind-inflamed_bumps",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-forehead",
+        "location-nose-cheeks"
+      ],
+      "count": [
+        "count-4to6",
+        "count-7to10",
+        "count-11plus"
+      ],
+      "type": [
+        "type-masks"
+      ]
+    }
+  },
+  {
     "name": "Fresh Umbrian Clay Purifying Mask",
     "id": "B01IYY49VY",
     "image": "https://images-na.ssl-images-amazon.com/images/I/41wCnzc6mFL.jpg",
@@ -930,6 +1268,72 @@ products = [
         "count-7to10"
       ],
       "type": []
+    }
+  },
+  {
+    "name": "Humane Benzoyl Peroxide 10% Acne Treatment Body & Face Wash",
+    "id": "B00PO7GKLM",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61zPuGXrBbL._SY679_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-oily",
+        "skin-combination"
+      ],
+      "age": [
+        "age-19to24",
+        "age-25to35"
+      ],
+      "kind": [
+        "kind-inflamed_bumps",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-forehead",
+        "location-back-chest"
+      ],
+      "count": [
+        "count-11plus"
+      ],
+      "type": [
+        "type-cleansers"
+      ]
+    }
+  },
+  {
+    "name": "InstaNatural Acne Moisturizer",
+    "id": "B015WVR2VQ",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81HsqovLqgL._SY679_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-normal",
+        "skin-oily",
+        "skin-combination"
+      ],
+      "age": [
+        "age-12to18",
+        "age-19to24",
+        "age-25to35",
+        "age-36plus"
+      ],
+      "kind": [
+
+        "kind-blackheads",
+        "kind-inflamed_bumps",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-forehead",
+        "location-nose-cheeks",
+        "location-chin"
+      ],
+      "count": [
+        "count-0to3",
+        "count-4to6",
+        "count-7to10",
+      ],
+      "type": [
+        "type-creams"
+      ]
     }
   },
   {
@@ -1039,6 +1443,37 @@ products = [
     }
   },
   {
+    "name": "Majestic Pure 24K Gold Facial Mask",
+    "id": "B01ERVKA3Y",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81eQIRYr%2B5L._SX522_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-normal",
+        "skin-dry"
+      ],
+      "age": [
+        "age-12to18",
+        "age-19to24",
+        "age-25to35",
+        "age-36plus"
+      ],
+      "kind": [
+        "kind-inflamed_bumps"
+      ],
+      "location": [
+        "location-nose-cheeks",
+        "location-chin"
+      ],
+      "count": [
+        "count-0to3",
+        "count-4to6"
+      ],
+      "type": [
+        "type-masks"
+      ]
+    }
+  },
+  {
     "name": "Murad Acne Clarifying Body Spray",
     "id": "B000GDDKJY",
     "image": "https://images-na.ssl-images-amazon.com/images/I/31DMW5VGE1L.jpg",
@@ -1097,6 +1532,38 @@ products = [
       ],
       "type": [
         "type-cleansers"
+      ]
+    }
+  },
+  {
+    "name": "Nature's Cure Body Acne Treatment Spray",
+    "id": "B0064FJ8J4",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61plqOO71sL._SX522_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-normal",
+        "skin-oily",
+        "skin-combination"
+      ],
+      "age": [
+        "age-12to18",
+        "age-19to24",
+        "age-25to35"
+      ],
+      "kind": [
+        "kind-inflamed_bumps",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-back-chest"
+      ],
+      "count": [
+        "count-4to6",
+        "count-7to10",
+        "count-11plus"
+      ],
+      "type": [
+        "type-sprays"
       ]
     }
   },
@@ -1197,6 +1664,42 @@ products = [
         "count-11plus"
       ],
       "type": []
+    }
+  },
+  {
+    "name": "Neutrogena Oil-Free Facial Acne Moisturizer",
+    "id": "B00NR1YQKO",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71%2BCC62%2Bs6L._SX522_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-normal",
+        "skin-oily",
+        "skin-dry",
+        "skin-combination"
+      ],
+      "age": [
+        "age-12to18",
+        "age-19to24",
+        "age-25to35"
+      ],
+      "kind": [
+        "kind-whiteheads",
+        "kind-inflamed_bumps",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-forehead",
+        "location-nose-cheeks",
+        "location-chin"
+      ],
+      "count": [
+        "count-0to3",
+        "count-4to6",
+        "count-7to10"
+      ],
+      "type": [
+        "type-creams"
+      ]
     }
   },
   {
@@ -1483,6 +1986,70 @@ products = [
     }
   },
   {
+    "name": "Sengan Pasta Rosette Cleansing Paste",
+    "id": "B002R59OTE",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81DftfihBZL._SY679_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-normal",
+        "skin-oily",
+        "skin-dry"
+      ],
+      "age": [
+        "age-12to18",
+        "age-19to24",
+        "age-25to35"
+      ],
+      "kind": [
+        "kind-whiteheads",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-nose-cheeks",
+        "location-chin"
+      ],
+      "count": [
+        "count-0to3",
+        "count-4to6"
+      ],
+      "type": [
+        "type-cleansers"
+      ]
+    }
+  },
+  {
+    "name": "Shiseido Fitit Perfect Whip Cleansing Foam",
+    "id": "B001CC1VV2",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51MGkaXMEYL._SX522_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-normal",
+        "skin-oily",
+        "skin-combination"
+      ],
+      "age": [
+        "age-12to18",
+        "age-19to24",
+        "age-25to35"
+      ],
+      "kind": [
+        "kind-inflamed_bumps"
+      ],
+      "location": [
+        "location-forehead",
+        "location-nose-cheeks",
+        "location-chin"
+      ],
+      "count": [
+        "count-0to3",
+        "count-4to6"
+      ],
+      "type": [
+        "type-cleansers"
+      ]
+    }
+  },
+  {
     "name": "So Totally Clean Deep Pore Cleanser",
     "id": "B003HD04DK",
     "image": "https://images-na.ssl-images-amazon.com/images/I/71MQB2ERLEL._SY679_.jpg",
@@ -1554,6 +2121,38 @@ products = [
     }
   },
   {
+    "name": "Sprayology Acne Tonic Homeopathic Oral Spray",
+    "id": "B001AC0L9W",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31Yv54yOiGL.jpg",
+    "attributes": {
+      "skin": [
+        "skin-oily",
+        "skin-combination"
+      ],
+      "age": [
+        "age-12to18",
+        "age-25to35",
+        "age-36plus"
+      ],
+      "kind": [
+        "kind-inflamed_bumps",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-forehead",
+        "location-nose-cheeks",
+        "location-chin"
+      ],
+      "count": [
+        "count-0to3",
+        "count-4to6"
+      ],
+      "type": [
+        "type-sprays"
+      ]
+    }
+  },
+  {
     "name": "St. Ives Apricot Scrub",
     "id": "B00J2LBFDY",
     "image": "https://images-na.ssl-images-amazon.com/images/I/818q5ioTJIL._SX522_.jpg",
@@ -1585,6 +2184,74 @@ products = [
         "count-11plus"
       ],
       "type": []
+    }
+  },
+
+    {
+      "name": "Super C-22 Moisturizer",
+      "id": "B00UI3OHG2",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41r7ORKyLaL.jpg",
+      "attributes": {
+        "skin": [
+          "skin-normal",
+          "skin-oily",
+          "skin-combination"
+        ],
+        "age": [
+          "age-12to18",
+          "age-19to24",
+          "age-25to35"
+        ],
+        "kind": [
+          "kind-inflamed_bumps",
+          "kind-painful_red_bumps"
+        ],
+        "location": [
+          "location-forehead",
+          "location-nose-cheeks",
+          "location-chin"
+        ],
+        "count": [
+          "count-0to3",
+          "count-4to6",
+          "count-7to10"
+        ],
+        "type": [
+          "type-creams"
+        ]
+      }
+    },
+  {
+    "name": "Super C-22 Toner",
+    "id": "B011PS7WZG",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/3113HQxaY4L.jpg",
+    "attributes": {
+      "skin": [
+        "skin-normal",
+        "skin-oily",
+        "skin-combination"
+      ],
+      "age": [
+        "age-25to35",
+        "age-36plus"
+      ],
+      "kind": [
+        "kind-inflamed_bumps",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-forehead",
+        "location-nose-cheeks",
+        "location-chin"
+      ],
+      "count": [
+        "count-0to3",
+        "count-4to6",
+        "count-7to10"
+      ],
+      "type": [
+        "type-sprays"
+      ]
     }
   },
   {
@@ -1623,6 +2290,36 @@ products = [
     }
   },
   {
+    "name": "TreeActiv Acne Eliminating Body Spray",
+    "id": "B01ETGXJVC",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/615hi729kML._SX522_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-oily",
+        "skin-combination"
+      ],
+      "age": [
+        "age-12to18",
+        "age-19to24",
+        "age-25to35"
+      ],
+      "kind": [
+        "kind-inflamed_bumps",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-back-chest"
+      ],
+      "count": [
+        "count-0to3",
+        "count-4to6"
+      ],
+      "type": [
+        "type-sprays"
+      ]
+    }
+  },
+  {
     "name": "Yes To Tomatoes Acne Daily Pore Scrub",
     "id": "B004NFYU8Q",
     "image": "https://images-na.ssl-images-amazon.com/images/I/81elD1lK%2BGL._SY679_.jpg",
@@ -1648,7 +2345,9 @@ products = [
         "count-7to10",
         "count-11plus"
       ],
-      "type": []
+      "type": [
+        "type-cleansers"
+      ]
     }
   },
   {
@@ -1716,7 +2415,46 @@ products = [
         "count-4to6",
         "count-7to10"
       ],
-      "type": []
+      "type": [
+        "type-sprays"
+      ]
     }
-  }
+  },
+/*
+  {
+    "name": "Clearasil Ultra Rapid Action Treatment Lotion",
+    "id": "B00GULAO2C",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/714o3tHcWML._SY679_.jpg",
+    "attributes": {
+      "skin": [
+        "skin-normal",
+        "skin-oily",
+        "skin-dry",
+        "skin-combination"
+      ],
+      "age": [
+        "age-12to18",
+        "age-19to24",
+        "age-25to35",
+        "age-36plus",
+      ],
+      "kind": [
+        "kind-inflamed_bumps",
+        "kind-painful_red_bumps"
+      ],
+      "location": [
+        "location-forehead",
+        "location-nose-cheeks",
+        "location-back-chest"
+      ],
+      "count": [
+        "count-0to3",
+        "count-4to6",
+        "count-7to10"
+      ],
+      "type": [
+        "type-creams"
+      ]
+    }
+  }*/
 ];

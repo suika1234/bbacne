@@ -9,7 +9,7 @@ class="highlight">7 to 9 products</span> until they find the perfect one for
 their skin. Now, with this short quiz, you can <span class="highlight">quickly</span>
 find products that are <span class="highlight">suitable</span> for treating your acne.`,
     productssofar: `These are the recommended products based on your selections so far`,
-    finalproducts: `These are the final recommended products based on the quiz`
+    finalproducts: `<span class="highlight">These are the final recommended products based on the quiz</span>`
   },
   questions: [
   {
@@ -47,14 +47,14 @@ find products that are <span class="highlight">suitable</span> for treating your
   },
   {
     id: "location",
-    question: "4. Where do you break out the most (select all that apply)?",
+    question: "4. Where do you break out the most?",
     options: {
       "location-forehead": "Forehead",
       "location-nose-cheeks": "Nose/Cheeks",
       "location-chin": "Chin",
       "location-back-chest": "Back/Chest"
     },
-    multiple: true
+    multiple: false
   },
   {
     id: "count",
@@ -69,14 +69,14 @@ find products that are <span class="highlight">suitable</span> for treating your
   },
   {
     id: "type",
-    question: "6. Would you prefer a cleanser, cream, moisturizer, or a mask (select all that apply)?",
+    question: "6. Would you prefer a cleanser, cream, moisturizer, spray, or a mask?",
     options: {
       "type-cleansers": "Cleansers",
-      "type-creams": "Creams",
-      "type-moisturizers": "Moisturizers",
+      "type-creams": "Creams/Moisturizers",
+      "type-sprays": "Sprays",
       "type-masks": "Masks"
     },
-    multiple: true
+    multiple: false
   }
 ]
 };
